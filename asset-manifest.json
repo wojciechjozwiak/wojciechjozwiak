@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c66c3186.css",
+    "main.js": "/static/js/main.81d5506d.js",
+    "static/js/27.83171a5e.chunk.js": "/static/js/27.83171a5e.chunk.js",
+    "static/media/icomoon.ttf?8mc8ao": "/static/media/icomoon.26fba05603ddcf5a7c48.ttf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c66c3186.css",
+    "static/js/main.81d5506d.js"
+  ]
+}
